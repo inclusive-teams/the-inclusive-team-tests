@@ -57,7 +57,7 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 
 ### The Ada Test
 
-1. Does your ratio of women match your local census polls? <= This is impossible for every software company. Sad fact. I don't even know enough women programmers to fill a team after 15 years.
+1. Does your ratio of women match your local census polls? 
 2. Do women's tenures match non-women?
 3. Do women's salaries match non-women?
 4. Do women write code?
