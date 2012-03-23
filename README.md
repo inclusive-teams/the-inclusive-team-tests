@@ -34,19 +34,22 @@ In case you haven't read it or don't go read it right now, here is the intro (fr
 >Of course, these are not the only factors that determine success or failure: in particular, if you have a great software team working on a product that nobody wants, well, people aren't going to want it. And it's possible to imagine a team of "gunslingers" that doesn't do any of this stuff that still manages to produce incredible software that changes the world. But, all else being equal, if you get these 12 things right, you'll have a disciplined team that can consistently deliver.
 
 
-I love this concept and beyond that it's become a widely accepted metric for the software industry. A number of companies now advertise their "Joel Test Score" during recruitment and many of the topics that the test covers are discussed on a regular basis. 
+This is a wonderful concept and itm has become a widely accepted metric for the software industry. A number of companies now advertise their "Joel Test Score" during recruitment and many of the topics that the test covers are discussed on a regular basis. 
 
 The Joel Test has definitely raised the bar of expectations. Though it's an imperfect and sloppy test, it has been effective in improving the overall quality of companies by stating in simple terms the expectations and values that make a great software team. 
 
 ## Measuring Disadvantagement
 
-We need The Joel Test for others things as well. Specifically -- measuring disadvantagement at a company. By disadvantagement I mean measuring wether or not a company has has a level playing field vs creating an environment that advantages certain groups of people over other people. 
+The world needs The Joel Test for others topics as well. Specifically -- measuring disadvantagement. 
 
-I'm stating that in general terms because I think the test can apply to a lot of disadvantagement situations rather than just focusing on a particular demographic in a particular kind of environment.
+Disadvantagement here means measuring wether or not a company has has a level playing field vs creating an environment that advantages certain groups of people over other people. 
+
+
+By stating this in general terms it allows the test to apply to a lot of disadvantagement situations rather than just focusing on a particular demographic in a particular kind of environment.
 
 ## Women In Technology 
 
-That said, to make it easy, let's pick a group and environment and roll with that. Let's start with one of the more glaring issues that any developer will be familiar with: women in technology. 
+A concrete use case is always a good starting point though. So, to make it easy, let's pick a group and environment and roll with that. One of the more glaring issues that any developer will be familiar with: women in technology. 
 
 Women are a disadvantaged group in the technology industry. The don't get hired as often, they don't get equivalent salaries, they get subtly (and sometimes not so subtly) discriminated against and mistreated when they do have jobs. There's a lot of things to talk about here and there's a million reasons why but for now we don't care about those reasons or describing the problem in too much details. We just want to do a quick and dirty measurement to see if a technology company does not disadvantage women. 
 
@@ -66,9 +69,11 @@ Here's an example test:
 10. When a woman requests consideration for a personal matter which is unique to women, are those requests honored with the same consideration that a request about a personal matter which is more commonly shared by both women and non-women would be considered?
 
 
-As you can see, in this test, we could easily replace "woman" and "women" with any group, like say "homosexuals", "Muslims", "midgets" or "redheads".
+As you can see, in this test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "midgets" or "redheads".
 
-Our goal should be that no group is disadvantaged and we need to start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's amazing and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your copmany.
+## Usage
+
+The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's amazing and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your copmany.
 
 Hopefully they come to the interview armed with this test.
 
