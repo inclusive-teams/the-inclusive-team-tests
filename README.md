@@ -1,6 +1,6 @@
-# The Disadvantagement Test
+# The Inclusive Team Test
 
-The Disadvantagement Test is a test which can be used to determine the level of disadvantagement that a particular group might face within a certain working environment. This test was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
+The Inclusive Team is a test which can be used to determine the level of disadvantagement that a particular group might face within a certain working environment. This test was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
 
 ## The Joel Test
 Have you heard of [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)? Go ahead and follow that link and read the article if you haven't. This can wait til you get back. 
@@ -40,31 +40,30 @@ The Joel Test has definitely raised the bar of expectations. Though it's an impe
 
 ## Measuring Disadvantagement
 
-The world needs The Joel Test for others topics as well. Specifically -- measuring disadvantagement. 
+The world needs The Joel Test for other topics as well. Specifically -- measuring disadvantagement and inclusiveness. 
 
-Disadvantagement here means measuring wether or not a company has has a level playing field vs creating an environment that advantages certain groups of people over other people. 
+**Disadvantagement** here means measuring wether or not a company has has a level playing field vs creating an environment that advantages certain groups of people over other people. **Inclusiveness** is simliar but means that no group is alienated by the practices and culture of a team.
 
+By stating this in general terms it allows the test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
 
-By stating this in general terms it allows the test to apply to a lot of disadvantagement situations rather than just focusing on a particular demographic in a particular kind of environment.
-
-## Women In Technology 
+## The Ada Test: Women In Technology 
 
 A concrete use case is always a good starting point though. So, to make it easy, let's pick a group and environment and roll with that. One of the more glaring issues that any developer will be familiar with: women in technology. 
 
-Women are a disadvantaged group in the technology industry. The don't get hired as often, they don't get equivalent salaries, they get subtly (and sometimes not so subtly) discriminated against and mistreated when they do have jobs. There's a lot of things to talk about here and there's a million reasons why but for now we don't care about those reasons or describing the problem in too much details. We just want to do a quick and dirty measurement to see if a technology company does not disadvantage women. 
+Women are a disadvantaged group in the technology industry. The don't get hired as often, they don't get equivalent salaries, they get subtly (and sometimes not so subtly) discriminated against and mistreated once they have a job. Sometimes there is no obvious mistreatment but they don't feel welcomed or appreciated compared to others on the team. There's a lot of things to talk about here and there's a million reasons why but for now we don't need to discuss those reasons or describe the problem in too much detail. We just want to do a quick and dirty measurement to see if a technology company does not disadvantage women. 
 
 Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace):
 
 ### The Ada Test
 
-1. Does the ratio of women to non-women on your team mirror the ratio of women to non-women in your local census polls?
+1. Is the ratio of women to non-women on your team similar to the ratio of women to non-women in your local census polls?
 2. Is the average tenure of women on your team similar to the average tenure of non-women? 
 3. Is the average salary for women on your team similar to the average salary of non-women?
 4. Do women on your team write code? 
 5. Do women on your team make important business decisions without requiring approval from non-women?
 6. Does the marketing content for your company's products/brands portray women in the same way it portrays non-women?
-7. Does casual office and lunch-time conversation ever point out the differences between women and non-women?
-8. Does your team take special notice when a woman behaves in a way that is associated with a woman's traditional gender role?
+7. Does casual office and lunch-time conversation refrain from pointing out the differences between women and non-women?
+8. Is a woman able to behave in a way that is associated with a her traditional gender role with special attention called to this behaviour?
 9. Are public team discussions about disadvantagement issues encouraged and well received, and are those issues acted upon afterwards?
 10. When a woman requests consideration for a personal matter which is unique to women, are those requests honored with the same consideration that a request about a personal matter which is more commonly shared by both women and non-women would be considered?
 
@@ -76,4 +75,8 @@ As you can see, in this test, one could easily replace "woman" and "women" with 
 The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your copmany.
 
 Hopefully they come to the interview armed with this test.
+
+## Project Goals
+
+Create a generalized test which can be applied to any situation. Use this as a basis to create numerous tests which are specific to certain groups or environments, each with thier own names. This project can collect and maintain these tests and ensure one is available for any scenario. 
 
