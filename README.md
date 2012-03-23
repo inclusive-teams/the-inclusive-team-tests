@@ -57,23 +57,24 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 
 ### The Ada Test
 
-1. Is the ratio of women to non-women on your team similar to the ratio of women to non-women in your local census polls?
-2. Is the average tenure of women on your team similar to the average tenure of non-women? 
-3. Is the average salary for women on your team similar to the average salary of non-women?
-4. Do women on your team write code? 
-5. Do women on your team make important business decisions without requiring approval from non-women?
-6. Does the marketing content for your company's products/brands portray women in the same way it portrays non-women?
-7. Does casual office and lunch-time conversation refrain from pointing out the differences between women and non-women?
-8. Is a woman able to behave in a way that is associated with a her traditional gender role without special attention called to this behaviour?
-9. Are public team discussions about disadvantagement issues encouraged and well received, and are those issues acted upon afterwards?
-10. When a woman requests consideration for a personal matter which is unique to women, are those requests honored with the same consideration that a request about a personal matter which is more commonly shared by both women and non-women would be considered?
+1. Does your ratio of women match your local census polls? <= This is impossible for every software company. Sad fact. I don't even know enough women programmers to fill a team after 15 years.
+2. Do women's tenures match non-women?
+3. Do women's salaries match non-women?
+4. Do women write code?
+5. Do women make business decisions without approval?
+6. Does your company's marketing portray women similarly to non-women?
+7. Do office conversations refrain from pointing out differences between women and non-women?
+8. Are women able to behave in a way that is associated with her traditional gender role without special attention called to this behavior?
+9. Are women able to behave in a way that is NOT associated with her traditional gender role without special attention called to this behavior?
+10. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?
+11. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
 
 
 As you can see, in this test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "midgets" or "redheads".
 
 ## Usage
 
-The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your company.
+The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 11/11 or even as low as 9/11 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/11 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your company.
 
 Hopefully, folks will come to the interview armed with this test.
 
