@@ -64,7 +64,7 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 5. Do women on your team make important business decisions without requiring approval from non-women?
 6. Does the marketing content for your company's products/brands portray women in the same way it portrays non-women?
 7. Does casual office and lunch-time conversation refrain from pointing out the differences between women and non-women?
-8. Is a woman able to behave in a way that is associated with a her traditional gender role with special attention called to this behaviour?
+8. Is a woman able to behave in a way that is associated with a her traditional gender role without special attention called to this behaviour?
 9. Are public team discussions about disadvantagement issues encouraged and well received, and are those issues acted upon afterwards?
 10. When a woman requests consideration for a personal matter which is unique to women, are those requests honored with the same consideration that a request about a personal matter which is more commonly shared by both women and non-women would be considered?
 
