@@ -73,7 +73,7 @@ As you can see, in this test, one could easily replace "woman" and "women" with 
 
 ## Usage
 
-The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's amazing and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your copmany.
+The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your copmany.
 
 Hopefully they come to the interview armed with this test.
 
