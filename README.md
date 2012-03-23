@@ -35,7 +35,7 @@ In case you haven't read it or don't go read it right now, here is the intro (fr
 >Of course, these are not the only factors that determine success or failure: in particular, if you have a great software team working on a product that nobody wants, well, people aren't going to want it. And it's possible to imagine a team of "gunslingers" that doesn't do any of this stuff that still manages to produce incredible software that changes the world. But, all else being equal, if you get these 12 things right, you'll have a disciplined team that can consistently deliver.
 
 
-This is a wonderful concept and itm has become a widely accepted metric for the software industry. A number of companies now advertise their "Joel Test Score" during recruitment and many of the topics that the test covers are discussed on a regular basis. 
+This is a wonderful concept and the test has become a widely accepted metric for the software industry. A number of companies now advertise their "Joel Test Score" during recruitment and many of the topics that the test covers are discussed on a regular basis (where as previously they were often ignored). 
 
 The Joel Test has definitely raised the bar of expectations. Though it's an imperfect and sloppy test, it has been effective in improving the overall quality of companies by stating in simple terms the expectations and values that make a great software team. 
 
@@ -49,9 +49,9 @@ By stating this in general terms it allows the test to apply to a lot of situati
 
 ## The Ada Test: Women In Technology 
 
-A concrete use case is always a good starting point though. So, to make it easy, let's pick a group and environment and roll with that. One of the more glaring issues that any developer will be familiar with: women in technology. 
+A concrete use case is always a good starting point. To make it easy, let's pick a group and environment and roll with that. One of the more glaring issues that any developer will be familiar with: women in technology. 
 
-Women are a disadvantaged group in the technology industry. The don't get hired as often, they don't get equivalent salaries, they get subtly (and sometimes not so subtly) discriminated against and mistreated once they have a job. Sometimes there is no obvious mistreatment but they don't feel welcomed or appreciated compared to others on the team. There's a lot of things to talk about here and there's a million reasons why but for now we don't need to discuss those reasons or describe the problem in too much detail. We just want to do a quick and dirty measurement to see if a technology company does not disadvantage women. 
+Women are a disadvantaged group in the technology industry. Women don't get hired as often, they don't get equivalent salaries, they get subtly (and sometimes not so subtly) discriminated against and mistreated once they have a job. Sometimes there is no obvious mistreatment but they don't feel welcomed or appreciated compared to others on the team and nebulous matters of "fit" become very problematic. There's a lot of things to talk about here and there are a million reasons why but for now we don't need to discuss those reasons or describe the problem in too much detail. We just want to do a quick and dirty measurement to see if a technology company does not disadvantage women. 
 
 Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace):
 
@@ -73,9 +73,9 @@ As you can see, in this test, one could easily replace "woman" and "women" with 
 
 ## Usage
 
-The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your copmany.
+The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 10/10 or even 9/10 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your company.
 
-Hopefully they come to the interview armed with this test.
+Hopefully, folks will come to the interview armed with this test.
 
 ## Project Goals
 
