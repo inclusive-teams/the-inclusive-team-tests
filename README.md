@@ -53,9 +53,9 @@ A concrete use case is always a good starting point though. So, to make it easy,
 
 Women are a disadvantaged group in the technology industry. The don't get hired as often, they don't get equivalent salaries, they get subtly (and sometimes not so subtly) discriminated against and mistreated when they do have jobs. There's a lot of things to talk about here and there's a million reasons why but for now we don't care about those reasons or describing the problem in too much details. We just want to do a quick and dirty measurement to see if a technology company does not disadvantage women. 
 
-Here's an example test:
+Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace):
 
-### The Disadvantagement Test: Women in Technology
+### The Ada Test
 
 1. Does the ratio of women to non-women on your team mirror the ratio of women to non-women in your local census polls?
 2. Is the average tenure of women on your team similar to the average tenure of non-women? 
