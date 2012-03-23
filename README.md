@@ -1,6 +1,7 @@
 # The Inclusive Team Test
 
-The Inclusive Team is a test which can be used to determine the level of disadvantagement that a particular group might face within a certain working environment. This test was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
+The Inclusive Team Test is a test which can be used to determine the level of disadvantagement that a particular group might face within a certain working environment. This test was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
+
 
 ## The Joel Test
 Have you heard of [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)? Go ahead and follow that link and read the article if you haven't. This can wait til you get back. 
