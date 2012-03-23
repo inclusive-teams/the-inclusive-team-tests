@@ -5,7 +5,7 @@ The Disadvantagement Test is a test which can be used to determine the level of 
 ## The Joel Test
 Have you heard of [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)? Go ahead and follow that link and read the article if you haven't. This can wait til you get back. 
 
-In case you haven't read it or don't go read it right now, a minimum, you should read the intro (from the linked article by [Joel Spolsky](http://joelonsoftware.com):
+In case you haven't read it or don't go read it right now, here is the intro (from the linked article by [Joel Spolsky](http://joelonsoftware.com):
 
 > I've come up with my own, highly irresponsible, sloppy test to rate the quality of a software team. The great part about it is that it takes about 3 minutes. With all the time you save, you can go to medical school.
 >
