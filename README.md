@@ -1,6 +1,6 @@
-# The Inclusive Team Test
+# The Inclusive Team Tests
 
-The Inclusive Team Test is a test which can be used to determine the level of disadvantagement that a particular group might face within a certain working environment. This test was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
+The Inclusive Team Tests are a collection of tests which can be used to roughly determine how inclusive of a particular group a team is. The level of inclusiveness (or disadvantagement) that a particular group might face within a certain working environment can be expressed as a score on the test. This test was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
 
 
 ## The Joel Test
@@ -39,13 +39,12 @@ This is a wonderful concept and the test has become a widely accepted metric for
 
 The Joel Test has definitely raised the bar of expectations. Though it's an imperfect and sloppy test, it has been effective in improving the overall quality of companies by stating in simple terms the expectations and values that make a great software team. 
 
-## Measuring Disadvantagement
+## Measuring Inclusiveness and Disadvantagement
 
-The world needs The Joel Test for other topics as well. Specifically -- measuring disadvantagement and inclusiveness. 
+The world needs The Joel Test for other topics as well. Specifically -- measuring inclusiveness and disadvantagement. 
 
-**Disadvantagement** here means measuring wether or not a company has has a level playing field vs creating an environment that advantages certain groups of people over other people. **Inclusiveness** is simliar but means that no group is alienated by the practices and culture of a team.
-
-By stating this in general terms it allows the test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
+**Inclusiveness** means that no group is alienated by the practices and culture of a team. 
+**Disadvantagement** means measuring wether or not a team provides a level playing field vs creating an environment that advantages certain groups of people over other people. 
 
 ## The Ada Test: Women In Technology 
 
@@ -70,15 +69,15 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 11. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
 
 
-As you can see, in this test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "midgets" or "redheads".
+As you can see, in this test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "midgets" or "redheads". We could even replace it with general terms like "the concerned group member". By stating a test in general terms it would allow that test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
 
 ## Usage
 
-The goal is for no group to be disadvantaged, so to address that we can start by applying some basic metrics. If your company scores 11/11 or even as low as 9/11 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/11 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your company.
+The goal is for no group to be disadvantaged so to address that we start by applying some basic metrics using the test score metaphor. If your company scores 11/11 or even as low as 9/11 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/11 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your company.
 
-Hopefully, folks will come to the interview armed with this test.
+Hopefully, folks will come to job interviews armed with this test.
 
 ## Project Goals
 
-Create a generalized test which can be applied to any situation. Use this as a basis to create numerous tests which are specific to certain groups or environments, each with thier own names. This project can collect and maintain these tests and ensure one is available for any scenario. 
+Create a generalized test which can be applied to any situation. Use this as a basis to create numerous more specific tests which focus on certain groups and environments, each with thier own unique names. This project can collect and maintain these tests and ensure one is available for any scenario. 
 
