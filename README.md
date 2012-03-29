@@ -63,7 +63,7 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 5. Do women make business decisions without approval?
 6. Does your company's marketing portray women similarly to non-women?
 7. Do office conversations refrain from pointing out differences between women and non-women?
-8. Can a woman either challenge or enjoy her traditional gender role without drawing special attention/comments?
+8. Can a woman either challenge or embrace her traditional gender role without drawing special attention/comments?
 9. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?
 10. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
 
