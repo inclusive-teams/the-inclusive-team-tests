@@ -1,6 +1,6 @@
 # The Inclusive Team Tests
 
-The Inclusive Team Tests are a collection of tests which can be used to roughly determine how inclusive of a particular group a team is. The level of inclusiveness (or disadvantagement) that a particular group might face within a certain working environment can be expressed as a score on the test. This test was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
+The Inclusive Team Tests are a collection of tests which can be used to roughly determine how inclusive a team is of a particular group. The level of inclusiveness (or disadvantagement) that a particular group might expereince within a certain working environment can be expressed as a score on the test. The concept for these tests was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
 
 
 ## The Joel Test
@@ -35,9 +35,9 @@ In case you haven't read it or don't go read it right now, here is the intro (fr
 >Of course, these are not the only factors that determine success or failure: in particular, if you have a great software team working on a product that nobody wants, well, people aren't going to want it. And it's possible to imagine a team of "gunslingers" that doesn't do any of this stuff that still manages to produce incredible software that changes the world. But, all else being equal, if you get these 12 things right, you'll have a disciplined team that can consistently deliver.
 
 
-This is a wonderful concept and the test has become a widely accepted metric for the software industry. A number of companies now advertise their "Joel Test Score" during recruitment and many of the topics that the test covers are discussed on a regular basis (where as previously they were often ignored). 
+This is a wonderful concept and the test has become a widely accepted "grassoots" metric for the software industry. A number of companies now advertise their "Joel Test Score" during recruitment and many of the topics that the test covers are discussed on a regular basis (whereas previously they were often ignored). 
 
-The Joel Test has definitely raised the bar of expectations. Though it's an imperfect and sloppy test, it has been effective in improving the overall quality of companies by stating in simple terms the expectations and values that make a great software team. 
+The Joel Test has definitely raised the bar of expectations. Although it's an imperfect and sloppy test, it has been effective in improving the overall quality of companies by stating in simple terms the expectations and values that make a great software team. 
 
 ## Measuring Inclusiveness and Disadvantagement
 
@@ -56,24 +56,23 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 
 ### The Ada Test
 
-1. Does your ratio of women match your local census polls? 
+1. Does the ratio of women to non-women match your local census polls? 
 2. Do women's tenures match non-women?
 3. Do women's salaries match non-women?
 4. Do women write code?
 5. Do women make business decisions without approval?
 6. Does your company's marketing portray women similarly to non-women?
 7. Do office conversations refrain from pointing out differences between women and non-women?
-8. Are women able to behave in a way that is associated with her traditional gender role without special attention called to this behavior?
-9. Are women able to behave in a way that is NOT associated with her traditional gender role without special attention called to this behavior?
-10. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?
-11. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
+8. Can a woman either challenge or enjoy her traditional gender role without drawing special attention/comments?
+9. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?
+10. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
 
 
 As you can see, in this test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "midgets" or "redheads". We could even replace it with general terms like "the concerned group member". By stating a test in general terms it would allow that test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
 
 ## Usage
 
-The goal is for no group to be disadvantaged so to address that we start by applying some basic metrics using the test score metaphor. If your company scores 11/11 or even as low as 9/11 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 8/11 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your company.
+The goal is for no group to be disadvantaged so to address that we start by applying some basic metrics using the test score metaphor. If your company scores 10/10 or even as low as 8/10 on this test, high fives. That's awesome and rare (though it should be the standard). If your company scored 7/10 or less on the above test (for any group, women or otherwise) then there are *serious* problems which should be a red flag to anyone who is a member of a disadvantaged group who is considering working for your company.
 
 Hopefully, folks will come to job interviews armed with this test.
 
