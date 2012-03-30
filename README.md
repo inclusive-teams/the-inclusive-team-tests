@@ -1,10 +1,10 @@
 # The Inclusive Team Tests
 
-The Inclusive Team Tests are a collection of tests which can be used to roughly determine how inclusive a team is of a particular group. The level of inclusiveness (or disadvantagement) that a particular group might expereince within a certain working environment can be expressed as a score on the test. The concept for these tests was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
+The Inclusive Team Tests are a collection of tests which can be used to roughly determine how inclusive a team is of a particular group. The level of inclusiveness (or disadvantagement) that a particular group might experience within a certain working environment can be expressed as a score on the test. The concept for these tests was heavily influenced by [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
 
 
 ## The Joel Test
-Have you heard of [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)? Go ahead and follow that link and read the article if you haven't. This can wait til you get back. 
+Have you heard of [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)? Go ahead and follow that link and read the article if you haven't. This can wait 'til you get back. 
 
 In case you haven't read it or don't go read it right now, here is the intro (from the linked article by [Joel Spolsky](http://joelonsoftware.com)):
 
