@@ -78,8 +78,6 @@ This one is fairly self-explanatory. An inclusive team will strive to reflect ro
 
 As an initial goal, examine your organization in terms of proportion of women and non-women vs. degrees awarded to women vs. non-women in your organization's field. For example, a manufacturing firm would do well if 25% of its engineers were women if ~25% of Mechanical Engineering degrees are awarded to women.
 
-[this could use some actual citations and stats, but my google-fu is failing me right now]
-
 **2. Do women's tenures match that of non-women?**
 
 If an organization finds that they have a higher turnover amongst women employees, it's time to examine the root cause of that turnover. Are women employees not receiving the same opportunities for advancement, training, etc.? If not, they have a strong incentive to seek employment elsewhere.
@@ -116,7 +114,7 @@ Assuming women are not discouraged from airing grievances with co-workers or man
 
 **10. When a woman requests consideration for a uniquely female personal matter, are those requests honored?**
 
-[I realize now that I am not sure what we're getting at with this question.]
+Does your office provide facilities for nursing mothers to breast feed or express milk (pump)? If not and such facilities are requested, is a solution created that is not simply a response to "use the toilets"?
 
 ## Usage
 
