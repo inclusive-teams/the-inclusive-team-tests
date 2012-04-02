@@ -57,8 +57,8 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 ### The Ada Test
 
 1. Does the ratio of women to non-women match your local census polls? 
-2. Do women's tenures match non-women?
-3. Do women's salaries match non-women?
+2. Do women's tenures match that of non-women?
+3. Do women's salaries match that of non-women?
 4. Do women write code?
 5. Do women make business decisions without approval?
 6. Does your company's marketing portray women similarly to non-women?
@@ -69,6 +69,54 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 
 
 As you can see, in this test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "midgets" or "redheads". We could even replace it with general terms like "the concerned group member". By stating a test in general terms it would allow that test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
+
+### Further Detail on the Questions
+
+**1. Does the ratio of women to non-women match your local census polls?**
+
+This one is fairly self-explanatory. An inclusive team will strive to reflect roughly the same distribution as the local population.
+
+As an initial goal, examine your organization in terms of proportion of women and non-women vs. degrees awarded to women vs. non-women in your organization's field. For example, a manufacturing firm would do well if 25% of its engineers were women if ~25% of Mechanical Engineering degrees are awarded to women.
+
+[this could use some actual citations and stats, but my google-fu is failing me right now]
+
+**2. Do women's tenures match that of non-women?**
+
+If an organization finds that they have a higher turnover amongst women employees, it's time to examine the root cause of that turnover. Are women employees not receiving the same opportunities for advancement, training, etc.? If not, they have a strong incentive to seek employment elsewhere.
+
+**3. Do women's salaries match that of non-women?**
+
+Studies in the [United States](http://www.pay-equity.org/info-time.html) reveal that women are payed only 77% of what non-women are paid for the same work, and in the [European Union](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/211&format=HTML&aged=0&language=EN&guiLanguage=en) women are paid 16.4% less than their equally qualified non-women counterparts. Pay equity is an essential feature of inclusive teams and failure to provide your women employees with competitive pay will contribute to higher employee turnover (see question 2).
+
+**4. Do women write code?**
+
+While all roles in an organization are required to make the business successful, are women concentrated in non-technical areas of the organization, such as marketing, sales or administration? 
+
+**5. Do women make business decisions without approval?**
+
+Many technical organizations operate on the principle of "ask for forgiveness, not for perimssion." Are women expected to seek approval for their decisions whereas non-women are not? 
+
+**6. Does your company's marketing portray women similarly to non-women?**
+
+Are women frequently the "clueless users" in your help videos? Are women in your marketing materials shown wearing revealing clothing whereas non-women are not? Is emphasis paid to a woman's appearance in your collateral versus how a non-woman is presented? 
+
+**7. Do office conversations refrain from pointing out differences between women and non-women?**
+
+Conversations that regularly focus on the differences between types of team members are an example of [othering] (http://geekfeminism.wikia.com/wiki/Othering) behavior. 
+
+**8. Can a woman either challenge or embrace her traditional gender role without drawing special attention/comments?**
+
+This question can be interpreted in both a positive and negative way. Are women rewarded only if they act like ""one of the boys" and engaging in non-traditional women's behaviors, such as going to strip clubs? Are women rewarded for embracing their traditional role, such as receiving a promotion for wearing revealing clothing? If a woman enters your office with a short hair cut, does her appearance become the subject of discussion, with people wondering aloud why she would make such a choice?
+
+**9. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?**
+
+In every team, people will say and do things that will cause friction with other team members. If women bring up these matters, are they discouraged from doing so to keep the peace? Are they told that they must grow a thicker skin and not take things so personally? 
+
+Assuming women are not discouraged from airing grievances with co-workers or management, are these concerns taken seriously? In the case of a co-worker, does the behavior that caused consternation cease? In the case of a discussion with management, is appropriate disciplinary action taken or is the issue aired and then simply ignored?
+
+**10. When a woman requests consideration for a uniquely female personal matter, are those requests honored?**
+
+[I realize now that I am not sure what we're getting at with this question.]
 
 ## Usage
 
