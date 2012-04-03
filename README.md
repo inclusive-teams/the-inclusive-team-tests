@@ -43,8 +43,8 @@ The Joel Test has definitely raised the bar of expectations. Although it's an im
 
 The world needs The Joel Test for other topics as well. Specifically -- measuring inclusiveness and disadvantagement. 
 
-**Inclusiveness** means that no group is alienated by the practices and culture of a team. 
-**Disadvantagement** means measuring wether or not a team provides a level playing field vs creating an environment that advantages certain groups of people over other people. 
+* **Inclusiveness** means that no group is alienated by the practices and culture of a team.
+* **Disadvantagement** means measuring wether or not a team provides a level playing field vs creating an environment that advantages certain groups of people over other people. 
 
 ## The Ada Test: Women In Technology 
 
