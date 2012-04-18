@@ -132,7 +132,7 @@ Hopefully, folks will come to job interviews armed with this test. Hopefully, em
 
 The goal of this project is to create a generalized test which can be applied to any situation and from that base, create numerous more specific tests which focus on certain groups and environments, each with their own unique names. 
 
-In the Ada test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "midgets" or "redheads". We could even replace it with general terms like "the concerned group member". By stating a test in general terms it would allow that test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
+In the Ada test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "little people" or "redheads". We could even replace it with general terms like "the concerned group member". By stating a test in general terms it would allow that test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
 
 This project can collect and maintain these tests and ensure one is available for any scenario. 
 
