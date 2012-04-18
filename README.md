@@ -85,7 +85,7 @@ If an organization finds that they have a higher turnover among women employees,
 
 **3. Do women's salaries match that of non-women?**
 
-Studies in the [United States](http://www.pay-equity.org/info-time.html) reveal that women are payed only 77% of what non-women are paid for the same work, and in the [European Union](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/211&format=HTML&aged=0&language=EN&guiLanguage=en) women are paid 16.4% less than their equally qualified non-women counterparts. Pay equity is an essential feature of inclusive teams and failure to provide your women employees with competitive pay will contribute to higher employee turnover (see question 2).
+Studies in the [United States](http://www.pay-equity.org/info-time.html) reveal that women are paid only 77% of what non-women are paid for the same work, and in the [European Union](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/211&format=HTML&aged=0&language=EN&guiLanguage=en) women are paid 16.4% less than their equally qualified non-women counterparts. Pay equity is an essential feature of inclusive teams and failure to provide your women employees with competitive pay will contribute to higher employee turnover (see question 2).
 
 **4. Do women write code?**
 
