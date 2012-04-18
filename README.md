@@ -127,8 +127,8 @@ Are women regularly interrupted or talked over in discussions? Are their stateme
 
 The goal is for no group to be disadvantaged, so to address that, we start by applying some basic metrics using the test score metaphor. 
 
-* If your company scores 12/12 or even as low as 10/12 on this test, high fives. That's awesome and rare (though it should be the standard). 
-* If your company scored 9/12 or less on the above test then there are *serious* problems which should be a red flag to a woman who is considering working for your company.
+* If your company scores 11/11 or even as low as 9/11 on this test, high fives. That's awesome and rare (though it should be the standard). 
+* If your company scored 8/11 or less on the above test then there are *serious* problems which should be a red flag to a woman who is considering working for your company.
 
 Hopefully, folks will come to job interviews armed with this test. Hopefully, employers will self-test and will either reflect on how to improve their environment, or will proudly display their high Ada Test scores in their job advertisements.
 
