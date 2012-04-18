@@ -68,7 +68,7 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 8. Can a woman either challenge or embrace her traditional gender role without drawing special attention/comments?
 9. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?
 10. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
-
+11. Are women given the same level of respect as non-women?
 ### Further Detail on the Questions
 
 **1. Does the ratio of women to non-women match your local census polls?**
@@ -119,12 +119,16 @@ There are some things in life which may only be relevant to women. Does the team
 
 For example: breast feeding is something that only women do and breast feeding concerns might become part of the daily activities of a woman on your team. Does your office provide facilities for nursing mothers to breast feed or express milk (pump)? If not and such facilities are requested, is a solution created that is not simply a response to "use the toilets"? Are her concerns understood and dealt with vs being dismissed? 
 
+**11. Are women given the same level of respect as non-women?**
+
+Are women regularly interrupted or talked over in discussions? Are their statements and ideas dismissed without examining them based on their merit? If a woman asks a question, are the responses sarcastic or phrased in a way to come off as looking-down-upon the woman?
+
 ## Usage
 
 The goal is for no group to be disadvantaged, so to address that, we start by applying some basic metrics using the test score metaphor. 
 
-* If your company scores 10/10 or even as low as 8/10 on this test, high fives. That's awesome and rare (though it should be the standard). 
-* If your company scored 7/10 or less on the above test then there are *serious* problems which should be a red flag to a woman who is considering working for your company.
+* If your company scores 11/11 or even as low as 9/11 on this test, high fives. That's awesome and rare (though it should be the standard). 
+* If your company scored 8/11 or less on the above test then there are *serious* problems which should be a red flag to a woman who is considering working for your company.
 
 Hopefully, folks will come to job interviews armed with this test. Hopefully, employers will self-test and will either reflect on how to improve their environment, or will proudly display their high Ada Test scores in their job advertisements.
 
@@ -132,7 +136,8 @@ Hopefully, folks will come to job interviews armed with this test. Hopefully, em
 
 The goal of this project is to create a generalized test which can be applied to any situation and from that base, create numerous more specific tests which focus on certain groups and environments, each with their own unique names. 
 
-In the Ada test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "little people" or "redheads". We could even replace it with general terms like "the concerned group member". By stating a test in general terms it would allow that test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
+
+In the Ada test, one could easily replace "woman" and "women" with any potentially disadvantaged group, like say "homosexuals", "Muslims", "little people" or "people of color". We could even replace it with general terms like "the concerned group member". By stating a test in general terms it would allow that test to apply to a lot of situations rather than just focusing on a particular demographic in a particular kind of environment.
 
 This project can collect and maintain these tests and ensure one is available for any scenario. 
 
