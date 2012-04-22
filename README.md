@@ -41,7 +41,7 @@ The Joel Test has definitely raised the bar of expectations. Although it's an im
 
 ## Measuring Inclusiveness and Disadvantagement
 
-The world needs The Joel Test for other topics as well. Specifically -- measuring inclusiveness and disadvantagement. 
+The world needs The Joel Test for other topics as well: specifically, measuring inclusiveness and disadvantagement. 
 
 * **Inclusiveness** means that no group is alienated by the practices and culture of a team.
 * **Disadvantagement** means measuring whether or not a team provides a level playing field vs creating an environment that advantages certain groups of people over other people. 
@@ -69,6 +69,7 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 9. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?
 10. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
 11. Are women given the same level of respect as non-women?
+
 ### Further Detail on the Questions
 
 **1. Does the ratio of women to non-women match your local census polls?**
