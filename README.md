@@ -14,18 +14,18 @@ In case you haven't read it or don't go read it right now, here is the intro (fr
 >  
 > #### The Joel Test
 >
->* Do you use source control?
->* Can you make a build in one step?
->* Do you make daily builds?
->* Do you have a bug database?
->* Do you fix bugs before writing new code?
->* Do you have an up-to-date schedule?
->* Do you have a spec?
->* Do programmers have quiet working conditions?
->* Do you use the best tools money can buy?
->* Do you have testers?
->* Do new candidates write code during their interview?
->* Do you do hallway usability testing?
+>1. Do you use source control?
+>2. Can you make a build in one step?
+>3. Do you make daily builds?
+>4. Do you have a bug database?
+>5. Do you fix bugs before writing new code?
+>6. Do you have an up-to-date schedule?
+>7. Do you have a spec?
+>8. Do programmers have quiet working conditions?
+>9. Do you use the best tools money can buy?
+>10. Do you have testers?
+>11. Do new candidates write code during their interview?
+>12. Do you do hallway usability testing?
 >
 >
 >The neat thing about The Joel Test is that it's easy to get a quick yes or no to each question. You don't have to figure out lines-of-code-per-day or average-bugs-per-inflection-point. Give your team 1 point for each "yes" answer. The bummer about The Joel Test is that you really shouldn't use it to make sure that your nuclear power plant software is safe.
